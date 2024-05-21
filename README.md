@@ -1,8 +1,8 @@
 
 
 
-#   Python Media File Renaming Script 
-     Specifically Taylored for Video Files (i.e., TV Shows). But works on any filename.
+#   PythonMediaFileRenamingScript.py
+*Specifically Taylored for Video Files (i.e., TV Shows). But works on any filename.*
 
 ## Description
 
@@ -29,17 +29,21 @@ This Python script renames media files in a specified directory by replacing dot
 
 1. **Clone the Repository**:
 
-   git clone https://github.com/KGMacaque/python-media-renaming-script.git
-   cd python-media-renaming-script
+          git clone https://github.com/KGMacaque/Python-Media-File-Renaming-Script.git
 
-    Run the Script:
+2. **Move into Directory**
 
-    python PythonMediaRenamingScript.py
+          cd Python-Media-File-Renaming-Script
 
-    Follow the Prompts:
-        Enter the directory containing the files to be renamed.
-        Enable verbose output if desired (yes/no).
-        Review the changes and indicate whether they are acceptable (yes/no).
+3. **Run the Script:**
+
+          python PythonMediaFileRenamingScript.py
+
+4. **Follow the Prompts:**
+   
+   -  When asked, input the directory location containing the files to be renamed.
+   -  Enable verbose output, if desired `(yes,no)`, `(y,n)`.
+   -  Review the changes and indicate whether they are acceptable `(yes,no)`, `(y,n)`.
 
 
 #   Example
@@ -53,13 +57,13 @@ This Python script renames media files in a specified directory by replacing dot
         My File S01E01.ext
 
 
-    **Verbose Output (if enabled):**
+Verbose Output *(if enabled)*:
 
-        Renaming: my_file.S01E01.example_file.ext ---> My File S01E01.ext
+     Renaming: my_file.S01E01.example_file.ext ---> My File S01E01.ext
 
-        Reverting Changes (if not acceptable):
+     Files Have Been Renamed *or* Reverting Changes (if not acceptable):
 
-        Changes have been reverted.
+     Changes have been reverted.
 
 
 
@@ -106,4 +110,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 
-Feel free to modify the content as necessary to fit your specific need
+*Feel free to modify the content as necessary to fit your specific need*
