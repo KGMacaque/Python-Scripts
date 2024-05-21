@@ -2,7 +2,7 @@
 
 
 #   Python Media File Renaming Script 
-#     Specifically Taylored for Video Files (i.e., TV Shows). But works on any filename.
+     Specifically Taylored for Video Files (i.e., TV Shows). But works on any filename.
 
 ## Description
 
@@ -42,7 +42,7 @@ This Python script renames media files in a specified directory by replacing dot
         Review the changes and indicate whether they are acceptable (yes/no).
 
 
-    #   Example
+#   Example
 
     Original Filename:
 
