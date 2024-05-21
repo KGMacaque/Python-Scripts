@@ -31,15 +31,15 @@ This Python script renames media files in a specified directory by replacing dot
 
           git clone https://github.com/KGMacaque/Python-Media-File-Renaming-Script.git
 
-2. **Move into Directory**
+3. **Move into Directory**
 
           cd Python-Media-File-Renaming-Script
 
-3. **Run the Script:**
+4. **Run the Script:**
 
           python PythonMediaFileRenamingScript.py
 
-4. **Follow the Prompts:**
+5. **Follow the Prompts:**
    
    -  When asked, input the directory location containing the files to be renamed.
    -  Enable verbose output, if desired `(yes,no)`, `(y,n)`.
